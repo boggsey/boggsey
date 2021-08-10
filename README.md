@@ -2,7 +2,7 @@
 
 You finally made it! Welcome to my lil home on the internet. I'm Eric, but lots of people call me boggsey for some reason.
 
-- I'm a (Goth) Staff Software Engineer at Procter & Gamble
+- I'm a Staff Software Engineer at Procter & Gamble
 - Co-founder of [A Voice for the Innocent](https://github.com/avfti), a nonprofit that helps victims of sexual violence.
 - Tech Instructor at [Quarantine Code](https://www.quarantinecode.com/)
 - U.S. Marine Corps veteran
