@@ -8,10 +8,12 @@ You finally made it! Welcome to my lil home on the internet. I'm Eric, but lots 
 - U.S. Marine Corps veteran
 
 ## Things I'm currently working on
+- *Apollo/Graphql* and *GCP*
+- The ocassional *React* and *Vue*
 
-- Front end development using *React* and *Vue*
-- Back end development using *Elixir* and *Phoenix*
+## Recent efforts
 - Mobile application development using *Kotlin/Android* and *React Native*
+- Back end development using *Elixir* and *Phoenix*
 
 ## Web Development for a cause
 
