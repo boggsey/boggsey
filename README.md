@@ -9,7 +9,7 @@ You finally made it! Welcome to my lil home on the internet. I'm Eric, but lots 
 
 ## Things I'm currently working on
 - *Apollo/Graphql* and *GCP*
-- The ocassional *React* and *Vue*
+- *React* and *Vue*
 
 ## Recent efforts
 - Mobile application development using *Kotlin/Android* and *React Native*
