@@ -11,9 +11,10 @@ On the Side
 - Former Girl Develop It instructor
  
 ## Things I'm currently working on
-- *GCP*
-- *Apollo/Graphql*
-- *Go*
+- GCP
+- Go
+- Apollo/Graphql
+- Flutter
 
 ## Recent efforts
 - Mobile application development using *Kotlin/Android* and *React Native*
